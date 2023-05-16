@@ -37,7 +37,7 @@ Enter the target IP address and the range of ports to scan when prompted.
 Wait for the scanning process to complete. The program will display the open ports in a table format and provide a summary of the scan results.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the <a href="https://github.com/Janith-Sandamal/network-scanner/blob/main/LICENSE">LICENSE<a/> file for details.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
