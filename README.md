@@ -35,6 +35,12 @@ g++ network_scanner.cpp -o network_scanner
 Enter the target IP address and the range of ports to scan when prompted.
 
 Wait for the scanning process to complete. The program will display the open ports in a table format and provide a summary of the scan results.
+<br>
+<p align="center">
+  <img src="https://github.com/Janith-Sandamal/network-scanner/assets/78975250/8558b0a4-904a-4b7e-be9f-18bbaf403c81" alt="Banner" width="500" height="300">
+</p>
+
+
 
 ## License
 This project is licensed under the MIT License. See the <a href="https://github.com/Janith-Sandamal/network-scanner/blob/main/LICENSE">LICENSE<a/> file for details.
